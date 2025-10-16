@@ -1,0 +1,2 @@
+# Nmap scan saved to tool_outputs/nmap_scan.txt
+nmap -A -T4 -oN tool_outputs/nmap_scan.txt target-ip
